@@ -1,0 +1,28 @@
+h1 {
+    text-align:center;
+    margin-bottom: 40px;
+    color: #40994c;
+}
+.linha {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.imagem-direita {
+    width: 300px;
+    height: auto;
+}
+
+.linha2 {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.imagem-esquerda{
+  width: 300px;
+  height: auto;
+}
